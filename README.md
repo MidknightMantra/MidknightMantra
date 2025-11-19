@@ -107,7 +107,6 @@ I love building **interactive web applications**, experimenting with **intellige
 
 <!-- Optional: Uncomment below to add Spotify or Snake Animation -->
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-![snake gif](https://github.com/MidknightMantra/MidknightMantra/blob/output/snake.svg)
 
 ---
 
