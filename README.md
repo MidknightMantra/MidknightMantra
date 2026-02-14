@@ -1,32 +1,39 @@
 <div align="center">
   <h1>Midknight Mantra</h1>
   <p>
-    Computer Science student and frontend-focused engineer exploring AI/ML-powered product experiences.
+    Frontend engineer building AI-assisted web products.
   </p>
 
   <p>
-    <a href="#connect">Connect</a>
-    ·
     <a href="#projects">Projects</a>
+    ·
+    <a href="#proof">Proof</a>
     ·
     <a href="#toolbox">Toolbox</a>
     ·
     <a href="#stats">Stats</a>
+    ·
+    <a href="#connect">Connect</a>
   </p>
 </div>
 
 ---
 
-## What I Build
-
-- Interactive web apps with strong UX and clean UI architecture
-- Practical automations (bots, assistants, workflows) that reduce friction
-- AI/ML integrations with an emphasis on deployment and real usage
-
 ## <a id="projects"></a>Featured Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MidknightMantra&repo=Luciene&theme=react)](https://github.com/MidknightMantra/Luciene)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MidknightMantra&repo=Tenebri&theme=react)](https://github.com/MidknightMantra/Tenebri)
+
+---
+
+## <a id="proof"></a>Proof (What I'm Doing Right Now)
+
+- Shipping: small, consistent improvements across my pinned projects
+- Building: automations (bots/assistants) that remove repetitive work
+- Learning: ML deployment patterns and AI-first UX
+
+If you want this section to read stronger, replace each line with one concrete outcome (demo link, screenshot, metric, or a specific feature).
 
 ---
 
@@ -137,4 +144,3 @@
     alt="GitHub followers"
   />
 </p>
-
